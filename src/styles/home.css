@@ -118,3 +118,17 @@ body {
   font-size: 16px;
   color: #b9bbbe;
 }
+
+.logout-button {
+  background-color: #7289da; 
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  margin-left: 16px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.logout-button:hover {
+  background-color: #5b6eae;
+}
