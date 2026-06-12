@@ -43,7 +43,7 @@ export default function Sidebar() {
       </div>
 
       <div className={styles.search}>
-        <input className={styles.searchInput} placeholder="Search conversations…" readOnly />
+        <input className={styles.searchInput} placeholder="Search conversations…"/>
       </div>
 
       <div className={styles.list}>
